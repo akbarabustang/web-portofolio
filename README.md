@@ -2,7 +2,7 @@
 iseng iseng aja
 
 
-##Cara Install
+## Cara Install
 Clone terlebih dahulu repository ini
 Kemudian pada root folder cms, ketik
 ```
